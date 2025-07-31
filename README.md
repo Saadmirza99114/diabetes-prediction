@@ -27,6 +27,6 @@ This project uses the Pima Indians Diabetes dataset to build a binary classifica
 
 🔗 Resources
 
-- 📄 Dataset on Kaggle
-- 📘 Notebook on Kaggle
-- 🔬 GitHub Repo
+- 📄 Dataset on Kaggle (https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+- 📘 Notebook on Kaggle (https://www.kaggle.com/code/saadhassan41199/diabetes-prediction-using-logistic-regression)
+- 🔬 GitHub Repo (https://huggingface.co/spaces/Hohenhiem/saadhassan_diabetes_predictor)
